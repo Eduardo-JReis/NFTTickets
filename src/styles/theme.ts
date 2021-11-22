@@ -7,6 +7,7 @@ export const theme = extendTheme({
     },
     styles: {
         global: {
+            html:{},
             body: {
                 bgGradient:"linear(to-r, #002853, #040C18)", 
                 bgClip:"border-box",
